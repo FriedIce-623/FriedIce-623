@@ -152,20 +152,24 @@ These experiences have strengthened my communication, coordination, and leadersh
 
 ---
 
-## GitHub Overview
+## Technical Highlights
 
-<div align="center">
+| Area | Experience |
+|---|---|
+| AI/ML Engineering | Building AI-powered applications, experimenting with deep learning, and developing RAG pipelines |
+| Backend Engineering | Designing REST APIs, implementing authentication, and developing data-driven applications |
+| Research & Experimentation | Reproducing research methodologies, exploring ML applications, and working with scientific computing libraries |
+| Open Source | Contributions to Meshery and selection for Winter of Code 5.0 |
+| Technical Leadership | Leading and hosting Build With Bharat 2.0 and HackIndia Spark 6 |
 
-<a href="https://github.com/FriedIce-623">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=FriedIce-623&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
-</a>
-<a href="https://github.com/FriedIce-623">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FriedIce-623&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used programming languages"/>
-</a>
+## Featured Repositories
 
-</div>
-
----
+| Project | Focus | Technologies |
+|---|---|---|
+| [ResearchVault](https://github.com/FriedIce-623/ResearchVault) | AI-powered research analysis and semantic retrieval | Python, FastAPI, ChromaDB, Next.js |
+| [Inventory Management System](https://github.com/FriedIce-623/Inventory-Management-System) | Backend development and inventory workflows | Python, FastAPI, PyTorch |
+| DeepRoute | Autonomous navigation and hazard detection | Python, AI, Firebase |
+| Plant Disease Detection | Computer vision and agricultural ML | Python, PyTorch |
 
 ## Current Focus
 
