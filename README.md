@@ -10,7 +10,7 @@ My work spans machine learning, backend engineering, AI-powered applications, an
 I approach engineering with a research-oriented mindset: understanding the underlying problem, evaluating possible approaches, making deliberate architectural decisions, and building systems that are both functional and extensible.
 
 [LinkedIn](https://www.linkedin.com/in/keerthana-salla-a39840344/) · [LeetCode](https://leetcode.com/u/friedIce23/) · [Codeforces](https://codeforces.com/profile/Keerthana20) · [GitHub](https://github.com/FriedIce-623)
-
+[Resume](https://drive.google.com/file/d/1RYKasnukcNcvMQQN7BUun_CUGnuAr52S/view?usp=drive_link)
 ---
 
 ## Areas of Interest
